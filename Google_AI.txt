@@ -1,0 +1,122 @@
+Google's new platform, Google cloud
+
+What is name of google AI?                            
+It is a google asssistant or gooogle voice assistant.
+
+what is google ai plateform ?
+Google cloud
+it is plateform which is complete set of tool to connect process ,store and analyze data both at the edge and in the cloud.
+
+Here, we can know about latest news (like- applying AI to world's biggest challenge, Dta search etc.), about research and read research publications,stories(AI in actions), use google tools and can even learn new things about AI.
+
+Learn with Google AI
+Here, Google provides us the courses in which we can learn Machine Learning and AI,Data Science etc from experts either from the begining level to advanced level.
+
+It consist of scalable ,fully managed cloud service an integrated software stack for edge/on premises computing with machine learning capability for all your IOt needs.
+link= https://cloud.google.com/solutions/iot
+Capability of IOT
+
+Plateform for intelligent IOT service:
+It consist of scalable ,fully managed cloud service an integrated software stack for edge/on premises computing with machine learning capability for all your IOt needs.
+
+1. Accelerate business agility and decision making with IOT data:
+Gain real time business insight from globally dispersed device , at the edge or in the cloud dispersed device at the edge or in tre cloud ,with comprehensive service fron google cloud IOT. Device data caputured by cloud IOT core get published to cloud pub /sub for downstream analytic .
+
+2. improve opertional efficiency:
+This plateform suppport of varity of embedded of operating system ,work seamless with linux os and provide support from device to manufacture microchip and many more component 
+
+3. enhance your IOT solution with location intelligence:
+Make your business location aware with the help of google map.by help of this location in real time or traveled.
+
+Components of AI Platform:
+
+1) Training service:
+The AI Platform training service allows you to train models using a wide range of different customization options.
+
+You can select many different machine types to power your training jobs, enable distributed training, use hyperparameter tuning, and accelerate with GPUs and TPUs.
+
+You can also select different ways to customize your training application. You can submit your input data for AI Platform to train using a built-in algorithm (beta). If the built-in algorithms do not fit your use case, you can submit your own training application to run on AI Platform, or build a custom container with your training application and its dependencies to run on AI Platform.
+	
+
+2) Prediction service:
+The AI Platform prediction service allows you to serve predictions based on a trained model, whether or not the model was trained on AI Platform.
+
+3) Notebooks:
+AI Platform Notebooks enables you to create and manage virtual machine (VM) instances that are pre-packaged with JupyterLab.
+
+AI Platform Notebooks instances have a pre-installed suite of deep learning packages, including support for the TensorFlow and PyTorch frameworks. You can configure either CPU-only or GPU-enabled instances, to best suit your needs.
+
+Your notebook instances are protected by Google Cloud authentication and authorization, and are available using a notebook instance URL. Notebook instances also integrate with GitHub so that you can easily sync your notebook with a GitHub repository.
+
+4) Data labeling service:
+AI Platform Data Labeling Service (beta) lets you request human labeling for a dataset that you plan to use to train a custom machine learning model. You can submit a request to label your video, image, or text data.
+
+To submit a labeling request, you provide a representative sample of labeled data, specify all the possible labels for your dataset, and provide some instructions for how to apply those labels. The human labelers follow your instructions, and when the labeling request is complete, you get your annotated dataset that you can use to train a machine learning model.
+
+5) Deep learning VM image:
+AI Platform Deep Learning VM Image lets you choose from a set of Debian 9-based Compute Engine virtual machine images optimized for data science and machine learning tasks. All images come with key ML frameworks and tools pre-installed, and can be used out of the box on instances with GPUs to accelerate your data processing tasks.
+
+6) Tools to interact with AI Platform:
+This section describes the tools that you use to interact with AI Platform.
+
+7) Google Cloud Console:
+You can deploy models to the cloud and manage your models, versions, and jobs on the Cloud Console. This option gives you a user interface for working with your machine learning resources. As part of Google Cloud, your AI Platform resources are connected to useful tools like Cloud Logging and Cloud Monitoring.
+
+8) The gcloud command-line tool:
+You can manage your models and versions, submit jobs, and accomplish other AI Platform tasks at the command line with the gcloud ai-platform command-line tool.
+
+We recommend gcloud commands for most AI Platform tasks, and the REST API (see below) for online predictions.
+
+9) REST API:
+The AI Platform REST API provides RESTful services for managing jobs, models, and versions, and for making predictions with hosted models on Google Cloud.
+
+You can use the Google APIs Client Library for Python to access the APIs. When using the client library, you use Python representations of the resources and objects used by the API. This is easier and requires less code than working directly with HTTP requests.
+
+We recommend the REST API for serving online predictions in particular.
+
+Link-->
+1)  https://cloud.google.com/ai-platform/docs/technical-overview#components
+2)  https://www.youtube.com/watch?v=Th4wBshuTRg
+
+Application
+
+1. predictive maintenance:
+    automatically predict when equipment needs maintenance ;optimize equipment perform real time .
+
+2. real time assest tracking:
+    track valueable assest in real time,perform complex ananlytic and machine learning on the data collect and displaythe status.
+
+ 3. logistics and supply chain management:
+    perform fleet managegement ,inventory tracking ,cargo integrity monitoring and other IOT>
+
+ 4. smart class building:
+  build a comprehensive solution that span acrosss billion of sensor and edge device buildind your cities . 
+     
+
+AI plateform :create your own AI application once, then run them easily on both GCP and on premises
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
